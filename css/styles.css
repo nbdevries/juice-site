@@ -1,23 +1,19 @@
-.title {
-    position: absolute;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-    z-index: 13;
+/* ___ BODY ___ */
 
-    /*
-     * Setting all four values to 0 makes the element as big
-     * as its next relative parent. Usually this is the viewport.
-     */
+body {
+    background-color: black;
 }
 
-.centered-div{
-    padding-top: 20%;
-    width: 100%;
+/* ___ LOGO ___ */
+
+.logo-container {
+    margin-top: 5em;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
     height: 100%;
-    background: #ADFF2F;
-    text-align: center;
-    font-family: Roboto;
-    font-size: 1000%;
 }
