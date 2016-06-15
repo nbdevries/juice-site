@@ -1,0 +1,23 @@
+.outer-div {
+    position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+    z-index: 13;
+
+    /*
+     * Setting all four values to 0 makes the element as big
+     * as its next relative parent. Usually this is the viewport.
+     */
+}
+
+.centered-div{
+    padding-top: 20%;
+    width: 100%;
+    height: 100%;
+    background: #ADFF2F;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 1000%;
+}
