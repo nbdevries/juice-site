@@ -1,0 +1,41 @@
+/* ___ BODY ___ */
+
+body {
+    background-color: black;
+}
+
+/* ___ LOGO ___ */
+
+.logo-container {
+    margin-top: 5em;
+    margin-bottom: 3em;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%; 
+    max-width: 300px;
+    height: 100%;
+    max-height: 300px;
+}
+
+/* ___ FLAVOURS ___ */
+
+.flavour-container {
+    text-align: center;
+    color: #bfbfbf;
+}
+
+.flavour {
+    margin-bottom: 2em;
+}
+
+.flavour-icon {
+    height: 45%;
+    width: 45%;
+    border:2px solid #aFaFaF;
+    border-radius: 15%;
+    margin-bottom: 0.1em;
+}
