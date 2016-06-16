@@ -28,8 +28,13 @@ body {
     color: #bfbfbf;
 }
 
+.flavour {
+    margin-bottom: 1em;
+}
+
 .flavour-icon {
     height: 45%;
     width: 45%;
     border-radius: 25px;
+    margin-bottom: 0.25em;
 }
