@@ -1,0 +1,2 @@
+www.juiceejuice.rocks : A Record  : juice-ejuice.myshopify.com
+    juiceejuice.rocks : MX Record : 23.227.38.32
